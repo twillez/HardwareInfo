@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hardware Information", "Hardware Information\Hardware Information.vcxproj", "{409AA8B6-6CE1-41BB-9265-58857270DE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Debug|x64.ActiveCfg = Debug|x64
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Debug|x64.Build.0 = Debug|x64
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Debug|x86.ActiveCfg = Debug|Win32
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Debug|x86.Build.0 = Debug|Win32
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Release|x64.ActiveCfg = Release|x64
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Release|x64.Build.0 = Release|x64
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Release|x86.ActiveCfg = Release|Win32
+		{409AA8B6-6CE1-41BB-9265-58857270DE60}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3FC501E-8BF1-475C-84CD-661E73375CB8}
+	EndGlobalSection
+EndGlobal
